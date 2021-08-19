@@ -1,7 +1,7 @@
 # Stained Glass
 
 Stained Glass is a generative art project made by me. 
-Check it out on [my website](https://www.frankhampusweslien.com/)
+Check it out on [my website](https://www.frankhampusweslien.com/art?group=Stained%20Glass&search=&forSale=False)
 
 ## The idea
 
