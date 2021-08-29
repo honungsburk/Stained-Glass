@@ -30,4 +30,4 @@ const rand = Math.random().toString().substr(2, 8);
 // const rand = "MY_SEED"
 ```
 
-There is also a [youtube video](https://www.youtube.com/channel/UC6fuoBfK8_B_cT35aKuJEgg) that explains how to do it
+There is also a [youtube video](https://www.youtube.com/watch?v=_iRBven6B-c) that explains how to do it
