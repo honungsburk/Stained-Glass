@@ -18,3 +18,16 @@ now.
 Simply open the index.html in your web browser and you are good to go.
 I recommend using a local webserver if you want to play around with it a bit more
 since it will then create a new work of art on each reload of the page.
+
+## How do I create an art piece in the original series?
+
+Change these lines in the sketch.js file:
+
+```javascript
+// Create a random seed - If you want to use this script to regenerate your image
+// simply uncomment and write your seed in the string.
+const rand = Math.random().toString().substr(2, 8);
+// const rand = "MY_SEED"
+```
+
+There is also a [youtube video](https://www.youtube.com/channel/UC6fuoBfK8_B_cT35aKuJEgg) that explains how to do it
